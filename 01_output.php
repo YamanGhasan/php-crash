@@ -14,7 +14,7 @@ print 'Hello';
 print_r('Hello');
 print_r([1, 2, 3]);
 
-// var_dump - Even more info like data type and length
+// var_dump - return  more info like data type and length //بتطبع نوع الvar 
 var_dump('Hello');
 var_dump([1, 2, 3]);
 
