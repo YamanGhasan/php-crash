@@ -49,7 +49,7 @@ echo 10 - 6;
 echo 5 * 10;
 echo 10 / 2;
 
-// Constants - Cannot be changed
+// Constants - Cannot be changed for Facts
 define('HOST', 'localhost');
 define('USER', 'root');
 
