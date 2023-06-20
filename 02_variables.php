@@ -9,7 +9,7 @@
 - Float - Decimal numbers
 - Boolean - true or false
 - Array - An array is a special variable, which can hold more than one value
-- Object - A class
+- Object --created from a class-- - A class
 - NULL - Empty variable
 - Resource - A special variable that holds a resource
 */
