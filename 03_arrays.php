@@ -80,7 +80,7 @@ echo $people[0]['first_name'];
 echo $people[2]['email'];
 
 // Encode to JSON
-var_dump(json_encode($people));
+var_dump(json_encode($people)); //حولناها لجيسون
 
 // Decode from JSON
 $jsonobj = '{"first_name":"Brad","last_name": "Traversy","email":"brad@gmail.com"}';
