@@ -38,8 +38,8 @@ $arr4 = [...$arr1, ...$arr2]; // Use Spread
 var_dump($arr4);
 
 // Combine arrays (Keys & values)
-$a = ['green', 'red', 'yellow'];
-$b = ['avocado', 'apple', 'banana'];
+$a = ['green', 'red', 'yellow'];// keys
+$b = ['avocado', 'apple', 'banana'];// values
 $c = array_combine($a, $b);
 
 // Array of keys
