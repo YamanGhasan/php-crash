@@ -6,7 +6,7 @@
 
 /*
   < Less than
-  > Greater than
+  > Greater than 
   <= Less than or equal to
   >= Greater than or equal to
   == Equal to
