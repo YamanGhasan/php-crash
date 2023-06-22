@@ -53,7 +53,7 @@ $posts = [];
 if (!empty($posts[0])) {
   echo $posts[0];
 } else {
-  echo 'There are no posts';
+  echo 'There are no posts'; 
 }
 
 /* -------- Ternary Operator -------- */
