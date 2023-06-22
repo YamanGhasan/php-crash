@@ -43,11 +43,11 @@ $b = ['avocado', 'apple', 'banana'];// values
 $c = array_combine($a, $b);
 
 // Array of keys
-$keys = array_keys($c);
+$keys = array_keys($c); // green red yellow
 
 // Flip keys with values
 $flipped = array_flip($c);
-var_dump($flipped);
+var_dump($flipped); //الكي بصير فاليو والعكس
 
 // Create array of numbers with range()
 $numbers = range(1, 20);
