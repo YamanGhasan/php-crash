@@ -1,5 +1,5 @@
 <?php 
-
+php is amazing 
 /* ---- Conditionals & Operators ---- */
 
 /* ------------ Operators ----------- */
