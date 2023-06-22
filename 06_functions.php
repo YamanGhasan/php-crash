@@ -52,6 +52,6 @@ $add = function ($num1, $num2) {
 echo $add(5, 5);
 
 // Arrow functions
-$multiply = fn($num1, $num2) => $num1 * $num2;
+$multiply = fn($num1, $num2) => $num1 * $num2; // anonymous fn
 
 echo $multiply(5, 5);
