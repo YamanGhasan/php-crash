@@ -8,8 +8,8 @@
 if (isset($_POST['submit'])) {
   // $name = $_POST['email'];
   // $email = $_POST['email'];
-
-  // htmlspecialchars() - Convert special characters to HTML entities
+ 
+  // htmlspecialchars() -   convert special characters to HTML entities
   // $name = htmlspecialchars($_POST['name']);
   // $email = htmlspecialchars($_POST['email']);
 
