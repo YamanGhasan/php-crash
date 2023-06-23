@@ -9,6 +9,7 @@
 
 // Set a cookie
 setcookie('name', 'Brad', time() + 86400 * 30); // 86400 = 1 day
+//////////key , value , expaire 
 
 // echo time();
 
